@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Entities.Abstract
+namespace Core.Entities
 {
     // Çıplak class kalmasın.
     // Entities projesindeki Concrete klasörünün içindeki classlarım veri tabanındaki tablolara denk geliyor.
